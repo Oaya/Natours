@@ -5,6 +5,7 @@
   "main": "index.js",
   "browserslist": "last 10 versions",
   "scripts": {
+    "deploy": " gh-pages -d",
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "devserver": "live-server",
     "start": "npm-run-all --parallel devserver watch:sass",
@@ -16,7 +17,10 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "homepage": "https://Oaya.github.io/natours",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
   "devDependencies": {
     "autoprefixer": "^10.4.0",
     "concat": "^1.0.3",

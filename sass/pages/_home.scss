@@ -15,7 +15,7 @@
       rgba($color-primary-light, 0.8),
       rgba($color-primary-dark, 0.8)
     ),
-    url(../../img/nat-4_small.jpg);
+    url(/img/nat-4_small.jpg);
   background-size: cover;
   transform: skewY(-7deg);
   margin-top: -10rem;
@@ -28,7 +28,7 @@
         rgba($color-primary-light, 0.8),
         rgba($color-primary-dark, 0.8)
       ),
-      url(../../img/nat-4.jpg);
+      url(/img/nat-4.jpg);
   }
 
   //.sction-features *(all)
