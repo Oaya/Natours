@@ -10,6 +10,21 @@ This project focuses on learning modern css and scss. Create resposive design by
 -Advanced CSS animations with @keyframes, animation and transition
 
 
+  
+## Open in local browser
+   `npm run start`
+
+Runs the app in the liveserver.\
+
+
+  `npm run build:css`
+
+Builds the app for production to the `build` folder.\
+I
+
+
+
+
 
 
 
