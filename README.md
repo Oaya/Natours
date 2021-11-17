@@ -19,7 +19,7 @@ Runs the app in the liveserver.\
 
   `npm run build:css`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production.\
 I
 
 
